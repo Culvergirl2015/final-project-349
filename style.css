@@ -1,0 +1,48 @@
+body{
+    line-height: 1.5;
+    background: rgb(188, 215, 238);
+}
+
+img{
+    border-radius: 10px;
+    border-color: rgb(78, 78, 78);
+    max-width: 30%;
+    height: 200px;
+    float: left;
+    padding-right: 25px;
+}
+
+header{
+    border-bottom: 1px solid;
+    padding-left: 20px;
+    padding-bottom: 8em;
+    width: 100%;
+    border-color: rgb(68, 68, 68);
+}
+
+.Objective{
+    text-align: center;
+}
+p{
+    margin-left: 300px;
+    margin-right: 300px;
+    padding-bottom: 50px;
+}
+
+h2{
+    padding-left: 50px;
+}
+
+h3{
+    padding-left: 75px;
+}
+
+ul li{
+    padding-left: 100px;
+    list-style-position: inside;
+}
+footer{
+    border-top: 1px solid;
+    border-color: rgb(71, 71, 71);
+    text-align: center;
+{
